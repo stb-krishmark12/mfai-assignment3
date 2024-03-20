@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 0 auto;
+    background-color: #2e74ff;
+  }
+
+h2{
+    color: rgb(255, 162, 0);
+   
+}
+.square {
+    background-color: rgba(184, 202, 255, 0.903);
+    width: 800px;
+    height: auto;
+    text-align: center;
+    box-shadow: 10px 10px #000000;
+  }
